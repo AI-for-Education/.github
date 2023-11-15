@@ -14,7 +14,7 @@ We want you to use these tools to democratise access to AI in education, ensurin
 We encourage contributions from educators, developers, and AI enthusiasts. Check out our individual project pages for more details on how to contribute.
 
 ## Resources
-Find tutorials, documentation, and guides in our various project repositories and on [AI-for-education.org] to help you get started with AI in education.
+Find tutorials, documentation, and guides in our various project repositories and on [https://AI-for-education.org] to help you get started with AI in education.
 
 ## Support
 For support, questions, or collaboration requests, please contact [contact@ai-for-education.org].
