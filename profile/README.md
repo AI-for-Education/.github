@@ -1,4 +1,4 @@
-# AI-for-Education: Empowering Education with AI
+# AI-for-Education: Empowering Education in LMIC's with AI
 
 Welcome to the AI-for-Education GitHub page, a collaborative hub for developing and sharing AI tools and resources aimed at revolutionizing education in low and middle-income countries (LMICs).
 
