@@ -11,7 +11,7 @@ Welcome to the AI-for-Education GitHub page, a collaborative hub for developing 
 We want you to use these tools to democratise access to AI in education, ensuring every student and teacher, regardless of their background, can benefit from these technologies.
 
 ## Projects
-- **FabData-LLM**: A library for interfacing with various LLM APIs and tools for managing chatbots.
+- [**FabData-LLM**](https://github.com/AI-for-Education/fabdata-llm): A library for interfacing with various LLM APIs and tools for managing chatbots.
 - **FabData-parsedoc**: A library for document text extraction and content parsing / summarisation / interpretation.
 - **More to come**: watch this space as we publish more - or contribute yourself!
 
