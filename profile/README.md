@@ -12,7 +12,7 @@ We want you to use these tools to democratise access to AI in education, ensurin
 
 ## Projects
 - [**FabData-LLM**](https://github.com/AI-for-Education/fabdata-llm): A library for interfacing with various LLM APIs and tools for managing chatbots.
-- **FabData-parsedoc**: A library for document text extraction and content parsing / summarisation / interpretation.
+- [**FabData-parsedoc**](https://github.com/AI-for-Education/fabdata-parsedoc): A library for document text extraction and content parsing / summarisation / interpretation.
 - **More to come**: watch this space as we publish more - or contribute yourself!
 
 ## Get Involved
