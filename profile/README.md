@@ -22,7 +22,7 @@ We encourage contributions from educators, developers, and AI enthusiasts. Check
 Find tutorials, documentation, and guides in our various project repositories and on [https://AI-for-education.org] to help you get started with AI in education.
 
 ## Support
-For support, questions, or collaboration requests, please contact [contact@ai-for-education.org].
+For support, questions, or collaboration requests, please contact [support@ai-for-education.org].
 
 ## Stay Connected
 Follow us on [https://www.linkedin.com/company/ai-for-education/] and [https://twitter.com/AI_for_Educ] to stay updated with our latest developments and events.
