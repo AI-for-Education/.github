@@ -13,6 +13,7 @@ We want you to use these tools to democratise access to AI in education, ensurin
 ## Projects
 - [**FabData-LLM**](https://github.com/AI-for-Education/fabdata-llm): A library for interfacing with various LLM APIs and tools for managing chatbots.
 - [**FabData-parsedoc**](https://github.com/AI-for-Education/fabdata-parsedoc): A library for document text extraction and content parsing / summarisation / interpretation.
+- [**Redis Stack Server ACI**](https://github.com/AI-for-Education/redis-stack-server-ACI): A tool for automated deployment of a TLS-enabled Redis Stack server as an Azure Container Instance. This could be used for example to host a vector database for Retrieval Augmented Generation (RAG).
 - **More to come**: watch this space as we publish more - or contribute yourself!
 
 ## Get Involved
