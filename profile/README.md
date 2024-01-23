@@ -19,7 +19,7 @@ We want you to use these tools to democratise access to AI in education, ensurin
 ## Get Involved
 We encourage contributions from educators, developers, and AI enthusiasts. Check out our individual project pages for more details on how to contribute.
 
-## Publications, Papers, and Presentation
+## Publications, Papers, and Presentations
 We are continually developing papers, presentations, and publications that share our work. You can access these on our website, [https://AI-for-education.org] with select works linked below. 
 - [**Coming Soon**]
 
