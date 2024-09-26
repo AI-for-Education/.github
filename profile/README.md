@@ -22,17 +22,17 @@ We want you to use these tools to democratise access to AI in education, ensurin
 We encourage contributions from educators, developers, and AI enthusiasts. Check out our individual project pages for more details on how to contribute.
 
 ## Publications, Papers, and Presentations
-We are continually developing papers, presentations, and publications that share our work. You can access these on our website, [https://AI-for-education.org] with select works linked below. 
+We are continually developing papers, presentations, and publications that share our work. You can access these on our website, (https://AI-for-education.org) with select works linked below. 
 - [**Coming Soon**]
 
 ## Resources
-Find tutorials, documentation, and guides in our various project repositories and on [https://AI-for-education.org] to help you get started with AI in education.
+Find tutorials, documentation, and guides in our various project repositories and on (https://AI-for-education.org) to help you get started with AI in education.
 
 ## Support
-For support, questions, or collaboration requests, please contact [support@ai-for-education.org].
+For support, questions, or collaboration requests, please contact (support@ai-for-education.org).
 
 ## Stay Connected
-Follow us on [https://www.linkedin.com/company/ai-for-education/] and [https://twitter.com/AI_for_Educ] to stay updated with our latest developments and events.
+Follow us on [LinkedIn](https://www.linkedin.com/company/ai-for-education/) and [Twitter](https://twitter.com/AI_for_Educ) to stay updated with our latest developments and events.
 
 ## License
 Our projects are open-source and available under the [MIT License](LICENSE.md) unless stated otherwise in individual repositories.
